@@ -1,0 +1,14 @@
+{
+  "calls": 25,
+  "failed_calls": 0,
+  "invalid_replies": 0,
+  "fallbacks": 0,
+  "total_seconds": 0.001,
+  "max_seconds": 0.001,
+  "est_input_tokens": 320,
+  "est_output_tokens": 728,
+  "consecutive_failures": 0,
+  "llm_disabled": false,
+  "average_seconds": 0.0,
+  "complaints": 25
+}

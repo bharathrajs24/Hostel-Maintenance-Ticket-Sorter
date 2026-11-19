@@ -1,0 +1,26 @@
+﻿id,date,complaint,status,ticket,team,room,issue,urgent,summary,source,notes
+H01,2026-10-08,Fan not working in B-214 since yesterday,new_ticket,T006,Electrician,B214,electrical,no,Fan not working in B-214 since yesterday,mock,
+H02,2026-10-08,bathroom tap is leaking in C310 water all over the floor,duplicate,T001,Plumber,C310,plumbing,no,bathroom tap is leaking in C310 water all over the,mock,
+H03,2026-10-08,Sparks coming from the switchboard in A105. Burning smell,new_ticket,T007,Electrician,A105,electrical,yes,Sparks coming from the switchboard in A105. Burning smell,mock,safety word: sparks; safety word: burning smell
+H04,2026-10-08,Room B214 fan still not working. Please fix,duplicate,T006,Electrician,B214,electrical,no,Room B214 fan still not working. Please fix,mock,
+H05,2026-10-08,wifi not working in D112 since morning. nothing loads,new_ticket,T008,IT Support,D112,internet,no,wifi not working in D112 since morning. nothing loads,mock,
+H06,2026-10-08,URGENT!!! URGENT!!! dustbin not emptied for 2 days room A-204 PLEASE COME FAST,new_ticket,T009,Housekeeping,A204,cleaning,no,URGENT!!! URGENT!!! dustbin not emptied for 2 days room A-204,mock,
+H07,2026-10-08,Water leaking near the switchboard in C-407 and I am scared of getting shock,new_ticket,T010,Electrician,C407,electrical,yes,Water leaking near the switchboard in C-407 and I am,mock,safety word: electric shock; safety word: near the switch; water near electrical fitting
+H08,2026-10-08,my tube light keeps flickering please send someone,needs_more_info,,,,electrical,no,my tube light keeps flickering please send someone,mock,room rejected: no room number found in the complaint
+H09,2026-10-08,flush not working in B302. toilet is blocked also,new_ticket,T011,Plumber,B302,plumbing,no,flush not working in B302. toilet is blocked also,mock,
+H10,2026-10-09,cupboard hinge is broken in D 118 door is hanging,duplicate,T002,Carpenter,D118,carpentry,no,cupboard hinge is broken in D 118 door is hanging,mock,
+H11,2026-10-09,E210 door lock broken,needs_more_info,,,,carpentry,no,E210 door lock broken,mock,room rejected: block E does not exist (blocks are A-D)
+H12,2026-10-09,Toilet is overflowing in B415 and water everywhere,new_ticket,T012,Plumber,B415,plumbing,yes,Toilet is overflowing in B415 and water everywhere,mock,safety word: overflowing; urgency raised by safety net
+H13,2026-10-09,B214 fan is sparking again!! please come now,duplicate,T006,Electrician,B214,electrical,yes,B214 fan is sparking again!! please come now,mock,safety word: sparks; ticket T006 upgraded to urgent
+H14,2026-10-09,LAN port not working in A110 cannot connect laptop,duplicate,T003,IT Support,A110,internet,no,LAN port not working in A110 cannot connect laptop,mock,
+H15,2026-10-09,Fan in b214 making loud noise and slow,duplicate,T006,Electrician,B214,electrical,no,Fan in b214 making loud noise and slow,mock,
+H16,2026-10-09,window glass cracked in C-216,duplicate,T004,Carpenter,C216,carpentry,no,window glass cracked in C-216,mock,
+H17,2026-10-09,cleaning not done in the corridor of 2nd floor block C since 3 days,needs_more_info,,,,cleaning,no,cleaning not done in the corridor of 2nd floor block,mock,room rejected: no room number found in the complaint
+H18,2026-10-09,Tube light fused in A-106 please change,new_ticket,T013,Electrician,A106,electrical,no,Tube light fused in A-106 please change,mock,
+H19,2026-10-09,bed frame broken in B-509 one leg is loose,needs_more_info,,,,carpentry,no,bed frame broken in B-509 one leg is loose,mock,room rejected: floor 5 does not exist (floors are 1-4)
+H20,2026-10-09,water supply is not coming in D-301 since morning,new_ticket,T014,Plumber,D301,plumbing,no,water supply is not coming in D-301 since morning,mock,
+H21,2026-10-09,Smell of burning from the AC socket in C-120 please check,new_ticket,T015,Electrician,C120,electrical,yes,Smell of burning from the AC socket in C-120 please,mock,safety word: burning smell
+H22,2026-10-09,internet very slow in B-214 all week,new_ticket,T016,IT Support,B214,internet,no,internet very slow in B-214 all week,mock,
+H23,2026-10-09,plug point in D-219 gave me a small shock when I charged my phone,new_ticket,T017,Electrician,D219,electrical,yes,plug point in D-219 gave me a small shock when,mock,safety word: electric shock
+H24,2026-10-09,wifi down again D112 !!!,duplicate,T008,IT Support,D112,internet,no,wifi down again D112 !!!,mock,
+H25,2026-10-09,Dustbin overflowing outside D-401 and ants coming,new_ticket,T018,Housekeeping,D401,cleaning,yes,Dustbin overflowing outside D-401 and ants coming,mock,safety word: overflowing; urgency raised by safety net

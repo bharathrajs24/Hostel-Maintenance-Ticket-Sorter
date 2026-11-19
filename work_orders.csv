@@ -1,0 +1,19 @@
+﻿ticket,team,room,issue,urgent,due_date,overdue,opened,origin,status,complaint_count,complaint_ids,summaries
+T007,Electrician,A105,electrical,yes,2026-10-08,yes,2026-10-08,new,open - warden to assign,1,H03,Sparks coming from the switchboard in A105. Burning smell
+T010,Electrician,C407,electrical,yes,2026-10-08,yes,2026-10-08,new,open - warden to assign,1,H07,Water leaking near the switchboard in C-407 and I am
+T006,Electrician,B214,electrical,yes,2026-10-09,no,2026-10-08,new,open - warden to assign,4,H01; H04; H13; H15,Fan not working in B-214 since yesterday | Room B214 fan still not working. Please fix | B214 fan is sparking again!! please come now | Fan in b214 making loud noise and slow
+T015,Electrician,C120,electrical,yes,2026-10-09,no,2026-10-09,new,open - warden to assign,1,H21,Smell of burning from the AC socket in C-120 please
+T017,Electrician,D219,electrical,yes,2026-10-09,no,2026-10-09,new,open - warden to assign,1,H23,plug point in D-219 gave me a small shock when
+T018,Housekeeping,D401,cleaning,yes,2026-10-09,no,2026-10-09,new,open - warden to assign,1,H25,Dustbin overflowing outside D-401 and ants coming
+T012,Plumber,B415,plumbing,yes,2026-10-09,no,2026-10-09,new,open - warden to assign,1,H12,Toilet is overflowing in B415 and water everywhere
+T004,Carpenter,C216,carpentry,no,2026-10-05,yes,2026-10-03,existing,open - warden to assign,1,H16,window glass cracked in C-216
+T002,Carpenter,D118,carpentry,no,2026-10-06,yes,2026-10-04,existing,open - warden to assign,1,H10,cupboard hinge is broken in D 118 door is hanging
+T013,Electrician,A106,electrical,no,2026-10-11,no,2026-10-09,new,open - warden to assign,1,H18,Tube light fused in A-106 please change
+T009,Housekeeping,A204,cleaning,no,2026-10-10,no,2026-10-08,new,open - warden to assign,1,H06,URGENT!!! URGENT!!! dustbin not emptied for 2 days room A-204
+T003,IT Support,A110,internet,no,2026-10-08,yes,2026-10-06,existing,open - warden to assign,1,H14,LAN port not working in A110 cannot connect laptop
+T008,IT Support,D112,internet,no,2026-10-10,no,2026-10-08,new,open - warden to assign,2,H05; H24,wifi not working in D112 since morning. nothing loads | wifi down again D112 !!!
+T016,IT Support,B214,internet,no,2026-10-11,no,2026-10-09,new,open - warden to assign,1,H22,internet very slow in B-214 all week
+T001,Plumber,C310,plumbing,no,2026-10-07,yes,2026-10-05,existing,open - warden to assign,1,H02,bathroom tap is leaking in C310 water all over the
+T005,Plumber,A312,plumbing,no,2026-10-09,no,2026-10-07,existing,open - warden to assign,0,,
+T011,Plumber,B302,plumbing,no,2026-10-10,no,2026-10-08,new,open - warden to assign,1,H09,flush not working in B302. toilet is blocked also
+T014,Plumber,D301,plumbing,no,2026-10-11,no,2026-10-09,new,open - warden to assign,1,H20,water supply is not coming in D-301 since morning

@@ -1,0 +1,5 @@
+﻿id,date,urgent,issue,summary,complaint,why_needs_info
+H08,2026-10-08,no,electrical,my tube light keeps flickering please send someone,my tube light keeps flickering please send someone,room rejected: no room number found in the complaint
+H11,2026-10-09,no,carpentry,E210 door lock broken,E210 door lock broken,room rejected: block E does not exist (blocks are A-D)
+H17,2026-10-09,no,cleaning,cleaning not done in the corridor of 2nd floor block,cleaning not done in the corridor of 2nd floor block C since 3 days,room rejected: no room number found in the complaint
+H19,2026-10-09,no,carpentry,bed frame broken in B-509 one leg is loose,bed frame broken in B-509 one leg is loose,room rejected: floor 5 does not exist (floors are 1-4)

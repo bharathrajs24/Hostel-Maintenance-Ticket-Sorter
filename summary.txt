@@ -1,0 +1,45 @@
+HOSTEL MAINTENANCE TICKET SUMMARY
+==================================
+As-of date: 2026-10-09   (latest complaint date in the input)
+Complaints processed: 25  ->  new tickets: 13, joined as duplicates: 8, needs more info: 4
+Read by: mock (25), fallback (0)
+The tool never closes tickets. The warden assigns and closes all work.
+
+URGENT TICKETS - WARDEN READS THESE FIRST
+  T007  A105  electrical -> Electrician   due 2026-10-08  (Sparks coming from the switchboard in A105. Burning smell)
+  T010  C407  electrical -> Electrician   due 2026-10-08  (Water leaking near the switchboard in C-407 and I am)
+  T006  B214  electrical -> Electrician   due 2026-10-09  (Fan not working in B-214 since yesterday; Room B214 fan still not working. Please fix; B214 fan is sparking again!! please come now; Fan in b214 making loud noise and slow)
+  T015  C120  electrical -> Electrician   due 2026-10-09  (Smell of burning from the AC socket in C-120 please)
+  T017  D219  electrical -> Electrician   due 2026-10-09  (plug point in D-219 gave me a small shock when)
+  T018  D401  cleaning   -> Housekeeping  due 2026-10-09  (Dustbin overflowing outside D-401 and ants coming)
+  T012  B415  plumbing   -> Plumber       due 2026-10-09  (Toilet is overflowing in B415 and water everywhere)
+
+TICKETS BY TEAM (all open tickets, including ones carried over)
+  Carpenter       2   (0 urgent)
+  Electrician     6   (5 urgent)
+  Housekeeping    2   (1 urgent)
+  IT Support      3   (0 urgent)
+  Plumber         5   (1 urgent)
+
+TICKETS BY BLOCK
+  Block A   5   (1 urgent)
+  Block B   4   (2 urgent)
+  Block C   4   (2 urgent)
+  Block D   5   (2 urgent)
+
+ROOMS WITH REPEAT COMPLAINTS (same room and issue reported more than once)
+  B214  electrical 4 reports  -> T006 (new complaints: H01, H04, H13, H15)
+  C216  carpentry  2 reports + earlier open ticket  -> T004 (new complaints: H16)
+  D118  carpentry  2 reports + earlier open ticket  -> T002 (new complaints: H10)
+  A110  internet   2 reports + earlier open ticket  -> T003 (new complaints: H14)
+  D112  internet   2 reports  -> T008 (new complaints: H05, H24)
+  C310  plumbing   2 reports + earlier open ticket  -> T001 (new complaints: H02)
+
+NEEDS MORE INFO (see needs_info.csv)
+  H08   room rejected: no room number found in the complaint
+  H11   room rejected: block E does not exist (blocks are A-D)
+  H17   room rejected: no room number found in the complaint
+  H19   room rejected: floor 5 does not exist (floors are 1-4)
+
+HEALTH OF THIS RUN
+  LLM calls: 25, failed: 0, invalid replies: 0, fallbacks used: 0
